@@ -4,7 +4,7 @@ Repeat the pattern and test your memory. The object of the game is to remember t
 
 ## Installation
 
-Just download the files and copy the index.html path from VSCode to your browser address bar.
+Just download the files and copy the index.html path to your browser address bar.
 
 
 ## Usage
